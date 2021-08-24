@@ -1,6 +1,6 @@
 def madlib():
     number = input("Number: ")
-    adj = input("Adjective: ")
+    adjective = input("Adjective: ")
     verb = input("Verb: ")
     verb2 = input("Verb: ")
     noun = input("Noun: ")
