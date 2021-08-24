@@ -1,8 +1,8 @@
 def madlib():
-    adj1 = input("Adjective: ")
-    adj2 = input("Adjective: ")
-    adj3 = input("Adjective: ")
-    adj4 = input("Adjective: ")
+    adjective1 = input("Adjective: ")
+    adjective2 = input("Adjective: ")
+    adjective3 = input("Adjective: ")
+    adjective4 = input("Adjective: ")
     noun1 = input("Noun: ")
     noun2 = input("Noun: ")
     noun3 = input("Noun: ")
@@ -27,7 +27,7 @@ shriek as he too {verb_past} his best hope to the heavens, pointing Draco’s {n
 \"{spell2}!\"\n\
 The bang was like a cannon blast, and the {adj2} flames that erupted between them, \
 at the dead center of the circle they had been treading, marked the point where the \
-{noun_plural} collided. Harry saw Voldemort’s {adj3} jet meet his own spell, saw the Elder Wand \
+{noun_plural} collided. Harris saw Voldemort’s {adj3} jet meet his own spell, saw the Elder Wand \
 fly high, dark against the sunrise, spinning across the enchanted ceiling like the \
 head of Nagini, spinning through the air toward the master it would not {verb}, who had \
 come to take full possession of it at last. And Harry, with the unerring skill of a Seeker, \
