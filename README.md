@@ -19,7 +19,13 @@
 
 
 
-=> Madlib:- It's a game in which a player prompts others to fill the blank spaces in a story before reading aloud.\n
+=> Madlib:- It's a game in which a player prompts others to fill the blank spaces in a story before reading aloud.
+
+
+
+
+
+
 => Random_Madlib:- Tells random story unlike fixed story in Madlib.
 
 
@@ -27,3 +33,5 @@
 
 
 => Rock_Paper_scissors:- In which player chooses one of three in(Rock, Paper, Scissor) against computer. Rock beats paper and scissor beats paper and paper beats rock.
+
+
